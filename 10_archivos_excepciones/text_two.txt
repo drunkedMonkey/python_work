@@ -1,0 +1,953 @@
+The Project Gutenberg eBook of Radio V-rays
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Radio V-rays
+
+Author: Jan Dirk
+
+Release date: May 7, 2024 [eBook #73554]
+
+Language: English
+
+Original publication: Indianapolis, IN: Popular Fiction Publilshing Company, 1925
+
+Credits: Roger Frank and Sue Clark
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK RADIO V-RAYS ***
+
+
+Two Youths Listened in on Interplanetary Radio, and
+Strange Was the Disaster That Befell Them
+
+RADIO V-RAYS
+
+By Jan Dirk
+
+
+Dick Jarvis and Stan Ross, two young engineering students, lay sprawled
+in more or less comfortable positions in Dick’s room at college. Stan
+was tall, tanned, and curly-headed. Dick wore the horn-rimmed glasses,
+mussed hair and preoccupied look of the habitual student. Yet these
+two, normally of the two extreme types which avoid each other all
+through college, had been drawn together in the bonds of true
+friendship by one thing--radio.
+
+On a long shelf which ran along one side of the room, beneath a window
+through which projected a lead-in insulator, lay a beautiful
+superheterodyne receiver. Dick’s father had been liberal with both his
+verbal and monetary encouragement, and Dick and his friend Stan Ross
+had built the gleaming mahogany leviathan of the radio-receiving world
+as a gift for him in token of their appreciation. Stan was talking, in
+his easy, carefree voice:
+
+“Well, old kid, there’s a DX half-hour starting in three minutes.
+Unwrap yourself from that soft chair and turn the expense into those
+little 199’s.”
+
+Dick grinned his acquiescence as he rose and went to the set. “Which
+aerial shall we use?” he inquired.
+
+“Oh, the outdoor one, I guess. Try it first, anyway, and then we can
+change to one of the loops if it’s too loud. I’ve never seen that funny
+one on the end of the bench, before--I’d like to try it.”
+
+“Oh, that one? Ouch!”
+
+Dick was trying to free himself from the grip of a refractory pair of
+head-phones that had taken a vicious hold upon one ear and a lock of
+hair.
+
+“That cone-shaped loop is a highly directional affair I built so as to
+get away from this heavy traffic on San Francisco bay.”
+
+He snapped over a filament-controlling toggle switch set into the long
+bench, and the beautiful set became instantly alive, transformed from a
+mechanically perfect but inanimate instrument of wood and wire to a
+living, glowing thing--a Twentieth Century horn of plenty, taking in at
+one end invisible and inaudible frequencies of electricity and
+releasing them as man-controlled music and speech.
+
+                 *       *       *       *       *
+
+Stan Ross plugged in his pair of phones and watched his friend, who was
+crouched before the superheterodyne, seeking by his trained
+manipulation of the dials to follow up the faint whistles which the set
+was pouring into his ears. Three stations four hundred miles to the
+south in Los Angeles roared in, one after the other, with an intensity
+sufficient to rattle the sensitive diaphragms of the head-sets. Dick
+slid his pair forward from his ears, but Stan, a veteran of the days
+when he and his fellow amateurs had sat long hours into the night with
+each others’ one kilowatt spark stations tearing into their heads from
+three-step audio amplifiers, only smiled.
+
+“Pretty good, Dick,” he shouted. “Those stations down south are all
+piled together on almost the same wave. I didn’t think even the ‘het’
+would separate ’em.”
+
+“Sh-h-h!” cautioned Dick. “There’s the Calgary station away up north in
+Canada. I’m going to try the new loop, now--wait a minute.”
+
+He removed his head-set and turned his attention to the egg-shaped
+affair previously referred to by Stan, connecting it in place of the
+outdoor antenna. The affair, Stan noticed, was shaped like half an egg,
+and rotated on a vertical axis at right angles to the normal horizontal
+line of an egg. Wire was wound on the parabolic wooden frame in such a
+fashion that the focus of the electrical parabola thus formed was fixed
+upon a point far out in space, in whatever direction the horizontal
+axis of the affair might be pointed.
+
+Dick turned back to the set, now much quieter, and motioned for Stan to
+turn the loop, slowly. Stan stretched a tentative hand toward the
+handle on top of the parabola, expecting a fearful shriek in the
+phones. Nothing of the sort occurred--he gave a slight whistle of
+amazement.
+
+“No body capacity?” he asked.
+
+“Nope,” came the reply; “new kink in shielding I worked out.” Then as
+Stan stooped and peered into the frame, a puzzled look on his face: “No
+need of looking for metallic shields, because there aren’t any. Just
+something I happened to stumble on: reducing everything as much as
+possible to ground potential.”
+
+Stan smiled, and put out his hand.
+
+“I’ll have to hand it to you, old kid,” he said. “I can supply the
+practical experience, but you certainly were born with all the brains
+and genius for both of us.”
+
+He began turning the loop slowly, pausing whenever Dick signified for
+him to do so, and in such a manner that the focus of the parabola moved
+in a great circle from the south to the east--counter-clockwise, in
+other words. First a small station in New Mexico, then El Paso, and
+finally Chicago and New York swung in, loud enough to be just
+comfortable in the telephones.
+
+The two young men smiled into each other’s eyes, contentedly,
+experiencing the joy of a dream come true and appreciating the
+beautiful creation on the work bench as only one can appreciate modern
+wireless telegraphy who has followed the art from its coherer stage.
+Dick snapped off the tubes, and the two removed their head-sets.
+
+                 *       *       *       *       *
+
+“Some set!” said Dick, the student.
+
+“Some set!” agreed Stan, the good fellow, sensing the coming of one of
+the friendly arguments, more or less one-sided, which they frequently
+indulged in. Sure enough, Dick frowned at him (his method of collecting
+his thoughts) and began:
+
+“This set is appallingly stupid and simple, isn’t it?”
+
+“No, it isn’t!” snapped back Stan. “It’s complicated as the devil.”
+
+The fray was on.
+
+“Of course you would disagree,” said Dick. “I’d like you less if you
+failed to. But honestly, now--you understand the principles on which
+the set works, you know how all the parts are put together, and you
+know how to operate it efficiently. On the whole, won’t you have to
+admit that this seven-tube set seemed far less complicated to you than
+did the first crystal set you ever made when you were new to the game?”
+
+“Well, yes, I guess I will,” admitted Stan. “As usual, I’m cornered.
+But just what are you driving at?”
+
+“I’ll come to that in a minute. Now, think of the thousands of people
+in this country who use radio receiving sets. They can tune them, after
+a fashion; they hear over long distances, mostly because of luck, and
+so they think themselves scientific research workers, and speak of
+their sets, which really do all the work,
+contemptuously--patronizingly. Yet those same sets, even if they have
+built them themselves (which is not usually the case) are really
+miracles to them, if they would only admit it.”
+
+“All done?” Stan inquired solicitously.
+
+“All done,” said Dick, wonderingly.
+
+“Right. Now listen to this and then unravel it, little logic. It’s
+gospel truth, and I’ve always wanted an explanation of it--but I never
+thought I’d meet anyone who would admit everything to be so simple as
+you do, so I’ve always kept it under my hat.”
+
+“I’m listening,” said Dick.
+
+“Before I came to college I had an amateur station in Los Angeles--big
+spark transmitter and all that. One winter I was listening in at about
+1 o’clock in the morning. The stations up here around San Francisco
+that had been booming in an hour before had all seemed to shut down
+together, almost as if something had suddenly smothered them, if you
+get what I mean. The Los Angeles fellows, I suppose, thought that the
+northern fellows were having some sort of local interference, so they,
+too, shut down, one by one. 5ZA had been working his spark, down in New
+Mexico, but he seemed to fade out at about the same time the San
+Francisco stations did.
+
+“It was odd to hear the air so quiet. I tuned all up and down the
+scale, hoping for some eastern DX, although it was rather late, but
+there was not a station on the air. Thinking that perhaps my receiver
+was not working as it should, I started the rotary gap and drawled out
+a long CQ on full power, but none of the locals came back to ‘bawl me
+out’--I was alone on the air. It was eery; I felt as if I were the last
+inhabitant of a dead world, and the night outside--a sixty mile gale of
+ice-cold north wind had sprang up from nowhere--didn’t help to lessen
+the uncomfortable illusion. Suddenly, on about five hundred meters (I
+remember the setting of those dials as well as if I had them here in my
+hands now) I heard a low hum, and eight long dashes pealed out, one
+after the other, each of them one tone higher than the preceding one.
+_The octave in the key of C!_
+
+“I admit that I jumped--cold sweat broke out on my forehead, but I
+glued my fingers to those variometer dials. About a minute later I
+heard it again--_do, re, mi_, and on up. It sounded at first like eight
+rotary gaps tuned to a musical scale, except that the tones were much
+smoother, almost bell-like, in fact.”
+
+Dick was laughing.
+
+“And you ask me to explain a thing like that after I’ve been talking of
+miracles?” he scoffed. “Why, it’s childishly simple. Some local fellow
+was playing a fool trick with eight rotary gaps adjusted to the key of
+C, or else someone was pioneering with a modulated CW--a broadcasting
+set.”
+
+“Yeah, Sherlock? Well, I thought of that, too--I’m not as dumb as I
+look.”
+
+Stan had risen to go. When he was safely outside the door, a position
+calculated to make his parting shot highly dramatic, he turned and shot
+back, “Right in the middle of that little performance the light in my
+radio room went out, and I learned the next day that the power had been
+off all over the city!”
+
+The door slammed.
+
+                 *       *       *       *       *
+
+Weeks passed. Stan, busy with athletics and activities, did not have
+time to call at his friend’s house for more than a month, and when
+finally he did, it was only upon receipt of an urgent telephone
+message. He burst into Dick’s room to find that worthy lying on the
+floor with his nose deep in an immense volume.
+
+“Oh, Lord! False alarm,” he groaned. “I thought you had electrocuted
+yourself, or something. What’s the matter?--and what the dickens are
+you reading?”
+
+Dick rose and laid the volume carefully on the table.
+
+“A treatise on X-rays,” he said; “and as for your other questions,
+nothing is the matter and I haven’t electrocuted myself. I just wanted
+you to come over and see what you have been responsible for. Look!”
+
+He stepped to the neat work bench and withdrew the black covering cloth
+from a bulky cabinet.
+
+“If I’m the father of that,” snorted Stan, “I ought to be ashamed of
+myself. Why, it’s out of date, obsolete--no one builds cabinets three
+feet high any more. What in heck is it, anyway?”
+
+“It,” said Dick, “is, as I was saying before I was so rudely
+interrupted”--he coughed, with a dignified air--“something for which
+you, only you, and no one but you, are responsible.”
+
+“How come? I’ll bite.”
+
+“It’s a long story, Stan. You probably remember the trick story that
+you told me a few weeks ago, at the end of which you left abruptly, so
+that I might not, with the powers of pure logic, destroy what you
+seemed to believe a miracle?”
+
+“I remember, all right, only I didn’t say it was a miracle, and the
+story was not a trick story--I told you it was gospel truth, and I
+wasn’t kidding.”
+
+“Uh-huh,” agreed Dick. “Well, be that as it may, your dramatic exit
+left me with an unsolved puzzle in my head, as you no doubt intended
+that it should, and knowing me as you do, old egg-beater, you certainly
+must know what the result of such a condition upon me would naturally
+be.”
+
+“My gawsh!” Stan exclaimed; “you don’t mean to say you’ve doped out
+about those musical notes, do you? If you have, I’ll surely hand it
+to--”
+
+“In that case, I’m sorry to confess that I haven’t. But look in the
+cabinet.”
+
+                 *       *       *       *       *
+
+Stan looked. He was too used to Dick’s queer contrivances to evince
+surprize; rather he took a careful inventory of what he saw, so that
+when he turned again to his friend he had a pretty good idea of the
+contents of the cabinet. He looked up and began enumerating from
+memory: “Down in a lower compartment there seems to be an orthodox
+receiving set with eight oversize tubes. All the wiring is oversize,
+too, and so are the transformers. Up above the set there are a lot of
+little control appliances, evidently of your own invention, and the
+biggest X-ray tube I’ve ever seen, with some sort of a focusing device
+pointed down into the lower compartment. That’s all. What do you think
+of little Watson’s powers of observation, Sherlock?”
+
+“You will insist upon attempting to be humorous, won’t you?” rebuked
+Dick, smiling nevertheless. “Seriously, though, Stan, this is the
+biggest thing I’ve ever done, and it may mean more to the world than
+any other radio experimentation has meant so far. Would you like an
+idea of what it all means before we start work?”
+
+“I would,” from the now sober Stan Ross.
+
+“Well, when you left that night I began turning things over and over in
+my mind. You quite evidently did not think those eight notes were the
+result of any human agency, and the idea, though preposterous,
+fascinated me. Where could such a phenomenon originate, I asked myself,
+if it had _not_ been the prank of some schoolboy? I thought of the
+millions of other heavenly bodies in the plane of the Galaxy, many of
+them thousands of times the size of our Earth, and some undoubtedly
+inhabited. I thought of Mars, though I knew that there was no more
+reason to believe it inhabited than any other planet, except that it
+had been seized upon by the popular fancy because of its proximity to
+the orbit of the Earth and because of its so-called canals. It was
+while I was thinking of Mars, however, that my train of thought shot
+off at a new tangent.”
+
+Dick Jarvis paused, utterly forgetful of his friend’s presence. His
+eyes shone queerly. As Ross prompted him he began again:
+
+“Why hadn’t we been able to communicate with any of the other planets?
+Were they so far ahead of us in their development that they had
+forgotten how to make our foolishly elementary kinds of receiving sets?
+Was it a mere question of wave lengths? Of distance? Or had our system
+of radio reception perhaps developed along entirely different lines
+than theirs? Had they used some principle entirely foreign to the
+electron theory in their radio work--say some unknown projector ray or
+light repulsion of the sort which makes the tail of a comet point
+always away from the sun? It seemed possible, even probable. Then I
+asked myself what medium of language an exterior planet would use in an
+attempt at communication, and two things immediately suggested
+themselves: geometry and music! That latter made me think of you again,
+so because it was the last thing in my train of thought--you were the
+last thing, I mean--I decided to call you responsible for the whole
+works--the receiving set on the bench, which is what you want to hear
+about, of course. I ought to be ashamed of myself for boring you.”
+
+Stan protested.
+
+“Dick,” he said, rising and grasping his friend by the hand, “I don’t
+know whether you know it or not, but you’re a genius. I’m proud to know
+you.”
+
+Dick Jarvis blushed.
+
+“Thanks, Stan,” he said, quietly, and rushed into a hurried discussion
+of the invention that rested before him, in an attempt to cover his
+embarrassment. A rare thing, indeed, when in college an athlete deigns
+to give such praise to one of those who are considered miserable
+“grinds”, though it is indeed true that the grinds usually end up by
+doing more for the world. All the more credit, then, to that great
+connecting link of modern America, the radio, which makes all men kin.
+
+“You see, Stanley,” Dick continued, “that idea of Martian ray
+propulsion sort of got me, and I kept asking myself if we didn’t have
+something similar to it here on Earth. There seemed to be something in
+the back of my head which said we did--a sort of mind-picture of just
+what I was seeking, yet although I was on the verge of it several times
+I couldn’t seem to quite visualize the thing. Finally I woke up one
+night with the answer, and the name of the thing on my lips--it was a
+common X-ray tube. I got up out of bed and started work, and for a
+month, steadily, I’ve worked every available minute that I could spare
+from my studies.”
+
+“But--” Stan broke in, impulsively, “why didn’t you let me help you? I
+would have been only too glad--”
+
+“I know you would have been, Stan. You’re good about those things. But
+you will have done more than your share if this thing works, tonight,
+by just having been here. I may need you for a witness, some day. Now,
+where was I? Oh, yes--the ray.
+
+“Of course an X-ray tube operates in accordance with the electron
+theory, but it shoots the electrons off--it doesn’t throw them out as
+an electromagnetic field of force, which is probably the fashion in
+which our earthly radio waves are propagated. In other words, although
+I was still using the electrons in my work, I had an entirely new type
+of receiving set, and one which, although it might not actually hear
+messages from another planet, would perhaps be the stepping stone on
+which some future inventor might build success. So I started.
+
+“In the cabinet on the bench there are, as you noticed, two divisions.
+One contains an oversize receiving set, with some appliances of my own
+attached to it, and the other the ray projecting and focusing device.
+The whole thing is wired with copper tubing, for the simple reason that
+in my earlier experiments the current developed was sufficient to fuse
+ordinary wire. The tubes are about the size of fifty watt transmitting
+tubes, and vary in construction, the one directly beneath the
+projector, which corresponds to the detector, having five electrodes
+made of radium-coated quartz. I am not sure that I could explain all of
+the action, but the radium seems to give off some new emanation that I
+have never seen before, under the stimulus of the rays from the
+projector. Do you follow me?”
+
+“I’m trailing,” said Stan. “Now tell me about the projector.”
+
+“The projector? It’s just an unusually large tube similar to an X-ray
+tube, which I have constructed to withstand extremely high voltages. It
+produces a tremendous flow of force, which I have named the V-Ray, and
+which by means of the leaden shield I can direct upon any portion of
+the net below. Now I believe that with the ray forcing a stream of
+electrons, or perhaps it would be more correct to say energy, into the
+tubes, the set will be sensitive to radio waves of a type unknown here
+on Earth. What the results will be, I do not know. I have never tried
+the set in its completed form before tonight--I’m just playing a hunch.
+Ready to go?”
+
+                 *       *       *       *       *
+
+Stan Ross signified his assent, and the two approached the monster on
+the long work bench. Stan felt a sinking sensation in the pit of his
+stomach. Dick attached to the input terminal of the set a long outdoor
+antenna, which, including the inductances which it contained every
+fifty feet, contained more than five miles of wire. There were no
+filaments in the tubes, hence the only batteries needed were some
+high-voltage blocks, some five hundred volts, altogether. At the
+extreme right of the panel were two output terminals, across which Dick
+had temporarily hooked a milliammeter, not knowing whether the output
+of the set would be auditory, visual, or what. He turned the 110 volts
+of the lighting system into the step-up transformer connected to the
+projector tube; the lights blinked, dimmed, and the huge V-Ray tube
+came to life, glowing greenly. The hum from the transformer seemed to
+drone a warning, in its ominous sixty-cycle growl--occasionally its
+safety gap broke down and a viciously snapping tongue of violet flame
+crashed between the terminals and added its weird glare to the green
+glow that filled the room.
+
+Dick, looking monstrous in heavy leaden surplice, goggles and gloves,
+grasped the projector controls and swept the tubes below with the ray.
+Peering over his shoulder Stan watched the vacuum tubes begin to glow
+as the V-rays bombarded, with billions of electrons, their
+radium-coated elements. First a point at the base of each tube became
+incandescent, grew, and finally resolved itself into a ruddy ball of
+fire and rolled to the top of the plates, where it exploded and spread
+over the quartz surfaces as an opal luminescence, turning them into
+swirling blazes of color-- lavender, gold, red. Stan drew back, dizzied
+and half-hypnotized by the swirling spectra. The tubes seemed alive.
+_Alive!_ The word drummed through his befogged brain.
+
+Dick adjusted the first tube.
+
+“Equivalent to inductance,” he muttered. “I tune the set with it.”
+
+The milliammeter quivered slightly, responding to atmospherics,
+presumably, for there were no stations operating at the time on the
+wave length to which the set was tuned.
+
+Stan looked at his watch.
+
+“In one minute,” he said, “the largest broadcasting station in San
+Francisco will come on.”
+
+The room became deathly quiet save for the hum of the transformer and
+the ticking of the watch which Stan held in his hand, as the seconds
+marched their way into eternity. Then--a spurt of flame, and the
+milliammeter fell to the floor, not alone burned out, but burned almost
+in half.
+
+The two men stared at each other through their leaden goggles. Stan
+groped for the telephone on the bench and rang up the broadcasting
+station.
+
+“Hello, hello,” the voice at the other end of the wire answered
+excitedly, before he had a chance to speak. “The first of a hundred
+’phone calls to ask why we’re late? No program tonight--all our tubes
+blew out at once--generator, too--almost as if something suddenly
+doubled the load on ’em....”
+
+The voice ceased as the connection clicked off. Two other broadcasting
+stations came on simultaneously, as the loud-speaker attached to the
+set which Dick had placed in operation testified. He looked up to
+receive Stan’s news and, little surprized, turned again to the tuning
+tube of the V-ray receiver, quickly tuning to the wave-length of the
+two stations now on the air, while Stan, aware at last of what he was
+doing, placed a heavy ammeter across the output terminals. The needle
+on the ammeter dial hesitated for the smallest fraction of a second,
+then jumped to its maximum position. An instant later the instrument
+fell to the floor, a smoking ruin.
+
+The two men looked at each other, their eyes bulging.
+
+“No need to telephone those stations,” Dick said, his voice shaking.
+“They’ll be burned out, too.”
+
+“And _we’re doing it_!” whispered Stan. “My God, Dick!--the man said it
+was as though someone suddenly doubled the load on their generators.
+That means _wireless transmission of power_!”
+
+Dick stood rigid, then a faint smile touched his lips, as of tension
+relieved.
+
+“And now,” he announced, “we’ll go up to a wave-length of one million
+meters and see what happens to a set of head-phones.”
+
+Turning to the set he worked busily for some minutes, adjusting various
+devices and concentrating the projector ray upon the detector tube
+directly below it. Stan, too excited now to think of electrocution,
+stripped off the clumsy gloves and with his bare hands connected two
+pairs of receivers to the terminals where the two meters had been. With
+something very like a prayer they placed the telephones over their
+ears, and Dick adjusted controls until a low, musical hum became
+audible.
+
+                 *       *       *       *       *
+
+Suddenly it seemed to Stan as if thousands of conversations were taking
+place inside his head. He heard no voices, yet within his brain he was
+aware of the coming and going of myriad thoughts and ideas not his own.
+He turned to Dick and started to speak, then realized that it was
+unnecessary. Dick’s mind and his were in perfect tune; they could read
+each others’ thoughts.
+
+“Do you feel what I do, or am I going crazy?” Stan asked.
+
+“Yes. It’s true.”
+
+“What does it mean? I can’t understand.”
+
+“It means that we are listening in on interplanetary thought
+transmissions. I believed that other heavenly bodies conversed by means
+of geometry or music. I was wrong. I should have known that they would
+be far enough advanced to use telepathy--radio telepathy.”
+
+“These voices that do not seem to be real voices--are they from Mars?”
+
+“Probably they are. Mars is closest to us in the solar system. The
+Music of the Spheres!”
+
+All this without a word having been spoken....
+
+As the two men listened it seemed that they were actually hearing
+voices, that the thoughts which the set was pouring into their heads
+were human voices whispering into their ears. There were conversations
+of all sorts: plans, plots, love confidences--all that one would expect
+to hear if he cut in on all the telephone conversations taking place at
+one time in a big city. For each change of a hundredth part of a
+wave-length which Dick made with the dials a new flood poured in:
+discussions of inventions unknown to Earthmen, which might advance them
+a hundred thousand years--secrets which would revolutionize Earth’s
+every art. And all within the power of two men to disclose!
+
+Of a sudden, growing gradually louder and louder and louder until it
+dominated all the minor whispers, rose one voice above the others, in
+the booming tones of a leader of his kind. “Aie! Aie! This is Marlars,
+chief and war lord over this red planet, which is the lord of all the
+red planets. I tell of the council to be held even now upon this, the
+lord of red planets--the council which, according to the legends of our
+people, has always been held after each hundredth occurrence of the
+vernal equinox of that small place called Earth by its inhabitants.
+Press your thought cones to your foreheads in the customary manner, and
+stay unmoved for one space of time, when I will call you to me. For I
+am Marlars, lord of this red planet which is the lord of all the red
+planets.”
+
+Dick Jarvis and Stan Ross removed their head-phones and placed them
+against their foreheads as if mesmerized, and obeying the commands of a
+stronger will. The hum of the big transformer rose till it became a
+whine--or was it a shrieking wail? The head-phones, which seemed to be
+burning into their foreheads, seemed to be changing shape in their very
+hands. The two felt a tremendous force exerting itself on them--pulling
+--pulling....
+
+                 *       *       *       *       *
+
+A week or so later Mrs. Sharpe, the landlady of the house in which Dick
+Jarvis had lived, was terrifiedly answering the questions of two
+detectives, one sent from the local police station, another from Dick’s
+father.
+
+“S’help me,” she was entreating, “that’s the truth and nothin’ else. I
+come upstairs, just like what I said, to make the beds, and found a big
+black box on the table the boys had built beneath the window, with some
+big lamps inside, a-burnin’ and a-snappin’. One of ’em were so big.”
+
+She gestured with her hands.
+
+“I turned off the ’lectricity--the boys was always runnin’ up big
+’lectricity bills on me--but when they didn’t come back, and didn’t
+come back, I begun to get scared and fiery mad at ’em at the same time,
+what with the window busted, and all. I figured they had most likely
+skipped out to beat me out of the rent, but at the same time I was
+scared somethin’ had happened to ’em. I sold all their stuff to the
+junkman before Mr. Jarvis got here to claim it, but I’m within my
+rights, an’ I know it. I don’t know no more, s’help me.”
+
+The two detectives walked together, very slowly, to report. It was a
+strange case.
+
+
+[Transcriber’s Note: This story appeared in the March 1925 issue of
+Weird Tales magazine.]
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK RADIO V-RAYS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
